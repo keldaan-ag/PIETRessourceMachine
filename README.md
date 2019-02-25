@@ -54,3 +54,13 @@ Solution :
 
  Ex :
 INBOX : "5 26 12 45 78 23" -> OUTBOX: "3157101"
+
+## Level 7 : Zero Exterminator
+
+**Instructions :** Send all things that ARE NOT ZERO to the OUTBOX.
+
+Solution :
+ ![solution7](solutions/level7.png)
+
+ Ex:
+ INBOX : "0 2 3 0 14 0 23 0" -> OUTBOX: "231423"
