@@ -42,3 +42,15 @@ INBOX : "5 26 12 45 78 23" -> OUTBOX: "26545122378"
 ## Level 5 : Coffee time
 
 [Is It Bonne humeur time ?](http://clos.des.roses.free.fr/isItBonneHumeurTime/)
+
+## Level 6 : 
+
+**Instructions :** For each two things in the INBOX, add them together, and put the result in the OUTBOX.
+
+Codel Size : 50
+
+Solution :
+ ![solution6](solutions/level6.png)
+
+ Ex :
+INBOX : "5 26 12 45 78 23" -> OUTBOX: "3157101"
