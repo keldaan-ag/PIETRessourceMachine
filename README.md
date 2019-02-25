@@ -1,7 +1,7 @@
 # PIETRessourceMachine
 All Human Ressource Machine problem written in PIET
 
-## level 1 
+## Level 1 
 
 Instructions : Drag commands into this area to build a program. Your program should tell your worker to grab each thing from the INBOX, and drop it into the OUTBOX.
 
