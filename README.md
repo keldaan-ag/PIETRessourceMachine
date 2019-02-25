@@ -16,6 +16,8 @@ INBOX : "5 26 12 45 78 23" -> OUTBOX: "52612457823"
 
 Ignore the INBOX for now, and just send the following 3 letters to the OUTBOX: B U G
 
+Codel Size : 20
+
 Solution : ![solution1](solutions/level3.png)
 
 EX :
