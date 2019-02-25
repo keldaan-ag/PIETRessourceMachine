@@ -9,5 +9,5 @@ Codel Size : 50
 
 Solution : ![solution1](solutions/level1.png)
 
-INBOX : "5 26 12 45 78 23"
-OUTBOX: "52612457823"
+Ex : 
+INBOX : "5 26 12 45 78 23" -> OUTBOX: "52612457823"
