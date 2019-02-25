@@ -59,6 +59,8 @@ INBOX : "5 26 12 45 78 23" -> OUTBOX: "3157101"
 
 **Instructions :** Send all things that ARE NOT ZERO to the OUTBOX.
 
+Codel Size : 30
+
 Solution :
  ![solution7](solutions/level7.png)
 
