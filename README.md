@@ -43,7 +43,7 @@ INBOX : "5 26 12 45 78 23" -> OUTBOX: "26545122378"
 
 [Is It Bonne humeur time ?](http://clos.des.roses.free.fr/isItBonneHumeurTime/)
 
-## Level 6 : 
+## Level 6 : Rainy Summer
 
 **Instructions :** For each two things in the INBOX, add them together, and put the result in the OUTBOX.
 
