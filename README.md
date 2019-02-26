@@ -90,3 +90,15 @@ Solution :
 
  Ex :
 INBOX : "0 2 0 6 0 15 0 23" -> OUTBOX: "0000"
+
+## Level 10 : Octoplier Suite
+
+**Instructions :** For each thing in the INBOX, multiply it by 8, and put the result in the OUTBOX.
+
+Codel Size : 50
+
+Solution :
+ ![solution10](solutions/level10.png)
+
+ Ex :
+INBOX : "1 2 5 3 8 4 9 12" -> OUTBOX: "816402464327296"
