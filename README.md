@@ -122,7 +122,7 @@ INBOX : "1 2 5 3 8 4 9 12" -> OUTBOX: "1-1-22-443-3"
 Codel Size : 40
 
 Solution :
- ![solution12](solutions/level11.png)
+ ![solution12](solutions/level12.png)
 
   Ex :
 INBOX : "1 2 5 10 20 12 3" -> OUTBOX: "4080200400800480120"
