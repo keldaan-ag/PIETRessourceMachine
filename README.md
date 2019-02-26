@@ -66,3 +66,15 @@ Solution :
 
  Ex:
  INBOX : "0 2 3 0 14 0 23 0" -> OUTBOX: "231423"
+
+ ## Level 8 :  Tripler Room
+
+ **Instructions :** For each thing in the INBOX, TRIPLE it. And OUTBOX the result.
+
+ Codel Size : 50
+
+Solution :
+ ![solution8](solutions/level8.png)
+
+Ex :
+INBOX : "1 2 5 9 3 6 2 45 23" -> OUTBOX: "361527918613569"
