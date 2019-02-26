@@ -78,3 +78,12 @@ Solution :
 
 Ex :
 INBOX : "1 2 5 9 3 6 2 45 23" -> OUTBOX: "361527918613569"
+
+## Level 9 : Zero Preservation Initiative
+
+**Instructions :** Send only the ZEROs to the OUTBOX
+
+Codel Size : 30
+
+Solution :
+ ![solution9](solutions/level9.png)
