@@ -87,3 +87,6 @@ Codel Size : 30
 
 Solution :
  ![solution9](solutions/level9.png)
+
+ Ex :
+INBOX : "0 2 0 6 0 15 0 23" -> OUTBOX: "0000"
