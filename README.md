@@ -107,7 +107,7 @@ INBOX : "1 2 5 3 8 4 9 12" -> OUTBOX: "816402464327296"
 
 **Instructions :**  For each two things in the INBOX, first subtract the 1st from the 2nd and put the result in the OUTBOX. AND THEN, subtract the 2nd from the 1st and put the result in the OUTBOX. Repeat.
 
-Codel Size : 30
+Codel Size : 20
 
 Solution :
  ![solution10](solutions/level11.png)
