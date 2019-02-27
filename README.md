@@ -143,7 +143,7 @@ INBOX : "1 1 2 3 4 4 12 12 0 1" -> OUTBOX: "1412"
 
 **Instructions :** Grab TWO things form the INBOX, and put only the BIGGER of the two in the OUTBOX. If they are equal, just pick either one. Repeat!
 
-Codel Size : 20
+Codel Size : 30
 
 Solution :
  ![solution14](solutions/level14.png)
@@ -151,3 +151,14 @@ Solution :
   Ex :
 INBOX : "4 7 5 2 12 23 5 5 47 20 28 56 99 99" -> OUTBOX: "75235475699"
 
+## Level 16 : Absolute Positivity
+                
+**Instructions :** Send each thing from the INBOX to the OUTBOX, BUT, if a number is negative, first remove its negative sign.
+
+Codel Size : 30
+
+Solution :
+ ![solution16](solutions/level16.png)
+
+  Ex :
+INBOX : "4 -1 2 -3 5 6 7 -122 1 -13" -> OUTBOX: "4123567122113"
