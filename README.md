@@ -131,7 +131,7 @@ INBOX : "1 2 5 10 20 12 3" -> OUTBOX: "4080200400800480120"
 
 **Instructions :** Get two things from the INBOX. If they are EQUAL, put ONE of them in the OUTBOX. Discard non-equal pairs. 
 
-Codel Size : 20
+Codel Size : 30
 
 Solution :
  ![solution13](solutions/level13.png)
