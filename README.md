@@ -196,7 +196,7 @@ INBOX : "5 10 2 6 12 3" -> OUTBOX: "54321010987654321021065432101211109876543210
 Codel Size : 50
 
 Solution :
- ![solution19](solutions/level19.png)
+ ![solution20](solutions/level20.png)
 
   Ex :
 INBOX : "2 2 4 4 5 3 8 3 7 9 10 6" -> OUTBOX: "41615246360"
