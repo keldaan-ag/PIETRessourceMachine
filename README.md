@@ -201,3 +201,13 @@ Solution :
   Ex :
 INBOX : "2 2 4 4 5 3 8 3 7 9 10 6" -> OUTBOX: "41615246360"
 
+## Level 21 : Zero Terminated Sum
+
+**Instructions :** The INBOX is filled with zero terminated strings! What's that? Ask me. Your Boss.
+ Add together all the numbers in each string. When you reach the end of a string (marked by a ZERO), put your sum in the OUTBOX. Reset and report for each string.
+
+Solution :
+ ![solution21](solutions/level21.png)
+
+  Ex :
+INBOX : "2 3 5 4 6 0 1 3 2 6 5 0 2 3 0 1 0 12 23 0" -> OUTBOX: "20175135"
