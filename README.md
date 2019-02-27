@@ -138,3 +138,16 @@ Solution :
 
   Ex :
 INBOX : "1 1 2 3 4 4 12 12 0 1" -> OUTBOX: "1412"
+
+## Level 14 : Maximization Room
+
+**Instructions :** Grab TWO things form the INBOX, and put only the BIGGER of the two in the OUTBOX. If they are equal, just pick either one. Repeat!
+
+Codel Size : 20
+
+Solution :
+ ![solution14](solutions/level14.png)
+
+  Ex :
+INBOX : "4 7 5 2 12 23 5 5 47 20 28 56 99 99" -> OUTBOX: "75235475699"
+
