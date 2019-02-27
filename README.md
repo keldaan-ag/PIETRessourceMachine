@@ -188,3 +188,16 @@ Solution :
 
   Ex :
 INBOX : "5 10 2 6 12 3" -> OUTBOX: "543210109876543210210654321012111098765432103210"
+
+## Level 20 : Multiplication Workshop
+
+**Instructions :** For each two things in the INBOX, multiply them, and OUTBOX the result. Don't worry about negative numbers for now.
+
+Codel Size : 50
+
+Solution :
+ ![solution19](solutions/level19.png)
+
+  Ex :
+INBOX : "2 2 4 4 5 3 8 3 7 9 10 6" -> OUTBOX: "41615246360"
+
