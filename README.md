@@ -176,3 +176,15 @@ Solution :
 
   Ex :
 INBOX : "-1 1 2 3 -12 5 5 -12 6 2 2 -7 14 -128" -> OUTBOX: "1011011"
+
+## Level 19 : Countdown
+
+**Instructions :** For each number in the INBOX, send that number to the OUTBOX, followed by all numbers down to (or up to) zero. It's a countdown!
+
+ Codel Size : 20
+
+Solution :
+ ![solution19](solutions/level19.png)
+
+  Ex :
+INBOX : "5 10 2 6 12 3" -> OUTBOX: "543210109876543210210654321012111098765432103210"
