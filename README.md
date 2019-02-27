@@ -162,3 +162,17 @@ Solution :
 
   Ex :
 INBOX : "4 -1 2 -3 5 6 7 -122 1 -13" -> OUTBOX: "4123567122113"
+
+## Level 17 : Exclusive Lounge
+                
+**Instructions :** For each TWO things in the INBOX:
+ - Send a 0 to the OUTBOX if they have the same sign. (Both positive or both negative.)
+ - Send a 1 to the OUTBOX if their signs are different. Repeat until the INBOX is empty.
+
+ Codel Size : 30
+
+Solution :
+ ![solution17](solutions/level17.png)
+
+  Ex :
+INBOX : "-1 1 2 3 -12 5 5 -12 6 2 2 -7 14 -128" -> OUTBOX: "1011011"
